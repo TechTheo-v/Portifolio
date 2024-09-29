@@ -149,6 +149,6 @@ body {
     }
 
     .apresentacao__links__navegacao {
-        gap: 10px;
+        width: 60%;
     }
 }
