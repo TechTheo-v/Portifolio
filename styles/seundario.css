@@ -1,0 +1,30 @@
+:root {
+    /* --cor-primaria: #FAF7F0;
+    --cor-secundaria: #c4beaf;
+    --cor-terciaria: #B17457;
+    --cor-hover: #4A4947; */
+    --cor-primaria: #FAF7F0;
+    --cor-secundaria: #c4beaf;
+    --cor-terciaria: #B17457;
+    --cor-hover: #4A4947;
+}
+
+p, li {
+    font-weight: 600;
+}
+
+.apresentacao__conteudo__titulo {
+    color: #B17457;
+    font-family: 'Krona One', sans-serif;
+}
+
+.apresentacao__conteudo__subtitulo {
+    color: #B17457;
+    font-family: 'Krona One', sans-serif;
+    margin-top: 15%;
+}
+
+.seletor-modo {
+    width: 40px;
+}
+          
