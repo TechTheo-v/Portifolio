@@ -19,3 +19,24 @@ p, li {
     font-family: 'Krona One', sans-serif;
     margin-top: 15%;
 }
+
+/* PROJETOS */
+
+.apresentacao__conteudo__link {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.apresentacao__conteudo__imagem {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: 2em 0 0 0 ;
+}
+
+.apresentacao__conteudo__link a:hover {
+    color: var(--cor-terciaria);
+    background-color: rgb(53, 53, 53);
+    padding: 0.2em;
+    border-radius: 7px;
+}

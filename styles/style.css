@@ -147,4 +147,9 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .apresentacao__links__navegacao {
+        width: 60%;
+        padding: 0 30px;
+    }
 }

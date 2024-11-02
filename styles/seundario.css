@@ -27,4 +27,11 @@ p, li {
 .seletor-modo {
     width: 40px;
 }
+
+/* projetos secundario */
+
+.apresentacao__conteudo__link a:hover {
+    color: var(--cor-hover);
+    background-color: var(--cor-terciaria);
+}
           
